@@ -7,7 +7,7 @@ import {Fontisto} from "@expo/vector-icons";
 
 import Colors from '../constants/Colors';
 import useColorScheme from '../hooks/useColorScheme';
-import TabOneScreen from '../screens/TabOneScreen';
+import TabOneScreen from '../screens/ChatsScreen';
 import TabTwoScreen from '../screens/TabTwoScreen';
 import { MainTabParamList, TabOneParamList, TabTwoParamList } from '../types';
 
